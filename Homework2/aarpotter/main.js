@@ -1,3 +1,5 @@
+// Along with cited sources, used ChatGPT to help with bugfixing, syntax explanations, and implementing the sankey graph and calculating the phi-correlation
+
 const width = window.innerWidth;
 const height = window.innerHeight;
 
